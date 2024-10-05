@@ -2,7 +2,6 @@ import React from "react";
 import { Box } from "@chakra-ui/react";
 import Slider from "react-slick";
 
-// Custom Next Arrow Component
 export function SampleNextArrow(props) {
   const { className, onClick } = props;
   return (

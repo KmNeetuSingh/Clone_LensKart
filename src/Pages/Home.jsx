@@ -37,13 +37,14 @@ const Home = () => {
       <Navbar />
       <Box overflow={"hidden"}>
         <Box p={1}>
-          <Image src="https://static5.lenskart.com/media/uploads/festive-desk-2-29Sep.png" />
+          <img
+           src= "https://static1.lenskart.com/media/desktop/img/Aug24/22-aug-24/blu/Desktop%20banner.png" />
         </Box>
         <SliderOne />
         <Box p={1}>
           <img
             src="https://static1.lenskart.com/media/desktop/img/Apr22/Bannerforexport.jpg"
-            alt="Do banner"
+            alt="banner"
           />
         </Box>
         <SliderTwo />
