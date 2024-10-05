@@ -17,7 +17,7 @@ import MouniRoy from "./ProductTwo/MouniRoy";
 import MouniRoyProduct from "./ProductOne/MouniRoyProduct";
 import PremiumEyeGlassess from "./ProductTwo/PremiumEyeGlassess";
 import PremiumEyeProduct from "./ProductOne/PremiumEyeProduct";
-import EyeGlassKId from "./ProductTwo/EyeGlassKId";
+import EyeGlassKId from "./ProductTwo/EyeGlassKid";
 import EyeGlassKidProduct from "./ProductOne/EyeGlassKidProduct";
 import MenSunglassess from "./ProductTwo/MenSunglassess";
 import MenSunGlassessProductDetails from "./ProductOne/MenSunglassessProduct";
