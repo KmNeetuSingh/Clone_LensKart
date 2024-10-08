@@ -20,8 +20,6 @@ _Transforming Your Eyewear Shopping Experience_
 
 - **Integrated Search Functionality 🔍**: Find what you’re looking for in seconds with our sleek search bar—making shopping feel effortless!
 
-- **Wishlist Feature ❤️**: Save your top picks for later and keep your faves close with the wishlist—because who doesn’t love a good wishlist?
-
 - **Seamless Cart & Checkout 🛒**: Add items, review your selections, and get ready to checkout (payment integration is on the way, don’t worry!).
 
 - **Responsive Design 📱**: Thanks to **Chakra UI**, our design adapts to your device like a chameleon—whether you’re on mobile, tablet, or desktop!
@@ -73,13 +71,13 @@ Now you’re all set! Open your browser and check it out at `http://localhost:30
 
 ## 🖼️ **Screenshots**  
 Here’s a sneak peek of what **ClearView** looks like:
-- **HomePage** ---  
+- # HomePage ---  
 ![Home Page](src/assets/Home.PNG)
-- **ProductPage** ---  
+- # ProductPage ---  
 ![Product Page](src/assets/Product.PNG) 
-- **CartPage** ---  
+- # CartPage ---  
 ![Cart Page](src/assets/Cart.PNG)
-- **SignUp** ---  
+- # SignUp ---  
 ![Sign Up](src/assets/Signup.PNG)
 
 ---
