@@ -4,7 +4,9 @@ _Transforming Your Eyewear Shopping Experience_
 **ClearView** is your go-to e-commerce platform inspired by Lenskart, crafted with the freshest tech like **React.js** and **Chakra UI**. This project is all about delivering a smooth, engaging, and modern online shopping experience. Whether you're hunting for the latest eyewear, sorting by your faves, or flexing your cart, **ClearView** keeps it simple and stylish. 
 
 ---
+## Live demo
 
+https://github.com/user-attachments/assets/464cf7c6-5cfa-4f35-adab-c5062326abc6
 ## 🌐 **Live Preview**  
 [**Explore ClearView in Action**](https://clone-lens-kart.vercel.app/) 🔗
 
