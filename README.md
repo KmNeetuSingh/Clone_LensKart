@@ -7,8 +7,6 @@ _Transforming Your Eyewear Shopping Experience_
 ## Live demo
 
 https://github.com/user-attachments/assets/464cf7c6-5cfa-4f35-adab-c5062326abc6
-## 🌐 **Live Preview**  
-[**Explore ClearView in Action**](https://clone-lens-kart.vercel.app/) 🔗
 
 ---
 
