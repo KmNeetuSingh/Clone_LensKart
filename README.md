@@ -40,35 +40,6 @@ https://github.com/user-attachments/assets/464cf7c6-5cfa-4f35-adab-c5062326abc6
 - **npm**: The trusty sidekick for managing dependencies and scripts.
 
 ---
-
-## ⚡ **Getting Started** 
-
-To set up and run **ClearView** on your local machine, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/KmNeetuSingh/Clone_LensKart
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd clearview
-   ```
-
-3. **Install all dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-Now you’re all set! Open your browser and check it out at `http://localhost:3000`.
-
----
-
 ## 🖼️ **Screenshots**  
 Here’s a sneak peek of what **ClearView** looks like:
 - # HomePage ---  
